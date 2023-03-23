@@ -56,14 +56,14 @@ export default function Search() {
 					/>
 				</svg>
 
-				<span>Search</span>
+				<span>Pesquisar</span>
 
 				<span className="search-hint">
-					<span className="sr-only">Press </span>
+					<span className="sr-only">Pressione </span>
 
 					<kbd>/</kbd>
 
-					<span className="sr-only"> to search</span>
+					<span className="sr-only"> para pesquisar</span>
 				</span>
 			</button>
 
