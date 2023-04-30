@@ -1,7 +1,7 @@
 export const SITE = {
   title: "Documentation",
   description: "Your website description.",
-  defaultLanguage: "en-us",
+  defaultLanguage: "pt-PT",
 } as const;
 
 export const OPEN_GRAPH = {
@@ -15,7 +15,7 @@ export const OPEN_GRAPH = {
 };
 
 export const KNOWN_LANGUAGES = {
-  English: "en",
+  Português: "pt",
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
@@ -35,12 +35,11 @@ export type Sidebar = Record<
   Record<string, { text: string; link: string }[]>
 >;
 export const SIDEBAR: Sidebar = {
-  en: {
-    "Section Header": [
-      { text: "Introdução", link: "en/introduction" },
-      { text: "Page 2", link: "en/page-2" },
-      { text: "Page 3", link: "en/page-3" },
+  pt: {
+    Conceitos: [{ text: "Introdução", link: "pt/conceitos/introduction" }],
+    Recursos: [
+      { text: "Livros", link: "pt/recursos/livros" },
+      { text: "Videos", link: "pt/recursos/videos" },
     ],
-    "Another Section": [{ text: "Page 4", link: "en/page-4" }],
   },
 };

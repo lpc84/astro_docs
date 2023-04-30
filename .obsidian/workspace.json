@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "4730ae1cfeb2a10a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ec114279adb6af4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b186925647730940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/docs/pt/recursos/livros.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9265bc3c6091e796",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5f8f24aba489440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1686416cb00de6f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f87f5a8c3b4afa0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46cf752f2510d932",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 416.5
+  },
+  "right": {
+    "id": "720559880f29e4f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ad1a2a7f3c821a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfad545730de33a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/docs/pt/recursos/livros.mdx",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75db7cab3697cc02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/content/docs/pt/recursos/livros.mdx",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b752094b7b15f1cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "078f2bde68250e70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/docs/pt/recursos/livros.mdx"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b186925647730940",
+  "lastOpenFiles": [
+    "public/docs/recursos/livros/less-is-more.jpeg",
+    "public/docs/recursos/livros/para-uma-historia-das-necessidades.webp",
+    "public/docs/recursos/livros/desafio-decrescimento.jpg",
+    "public/docs/recursos/livros/decrescimento-sereno.jpg",
+    "src/content/docs/pt/recursos/livros.mdx",
+    "public/docs/recursos/livros/decrescimento-sereno 1.jpg",
+    "src/content/docs/pt/recursos/videos.mdx",
+    "src/content/docs/pt/conceitos/introduction.md"
+  ]
+}

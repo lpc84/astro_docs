@@ -22,8 +22,12 @@ const lang = getLanguageFromURL(currentPage);
       <SidebarToggle client:idle />
     </div>
     <div class="logo flex">
-      <a href="/">
-        <AstroLogo size={40} />
+      <a href="/"
+        ><img
+          class="logo-image"
+          src="https://d33wubrfki0l68.cloudfront.net/f39351eff3f83334d95ee91b9b04f305e319928b/369cb/assets/images/logo_white_theme.png"
+          alt="Rede para o Descrescimento"
+        />
       </a>
     </div>
     <div style="flex-grow: 1;justify-content: end; display: flex;">
@@ -63,16 +67,17 @@ const lang = getLanguageFromURL(currentPage);
 
 <style>
   a.menu-item {
-    font-size: 1.2em;
     text-decoration: none;
     color: inherit;
-    margin: 0.5em;
-    font-weight: 700;
+    margin: 0 15px;
+    font-size: 15px;
+    font-weight: 500;
   }
   header {
     z-index: 11;
     height: var(--theme-navbar-height);
     width: 100%;
+    max-width: 100%;
     background-color: var(--theme-navbar-bg);
     display: flex;
     align-items: center;
@@ -82,6 +87,9 @@ const lang = getLanguageFromURL(currentPage);
     top: 0;
   }
 
+  .logo-image {
+    max-height: 50px;
+  }
   .logo {
     flex: 1;
     display: flex;
@@ -124,10 +132,10 @@ const lang = getLanguageFromURL(currentPage);
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    gap: 1em;
+    gap: 1.5em;
     width: 100%;
-    max-width: calc(1380px + 8vw);
-    padding: 0 1rem;
+    max-width: calc(1000px + 8vw);
+    padding: 0;
   }
 
   @media (min-width: 50em) {

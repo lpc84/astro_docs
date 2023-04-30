@@ -1,13 +1,13 @@
 ---
-title: "DECRESCIMENTO? SIM!"
+title: "O que é o decrescimento?"
 description: "Docs intro"
 ---
 
 Num Planeta finito, a produção e o consumo não podem crescer de forma perpétua sem esgotar os recursos da Terra ou exceder a capacidade dos ecossistemas de lidar com as emissões e resíduos, sendo que a integridade desses mesmos ecossistemas está sob ameaça permanente de um sistema de acumulação material exponencial. Por este motivo, os movimentos sociais e académicos alinhados com o Decrescimento assumem que apenas uma reorganização radical dos sistemas socioeconómicos pode assegurar as condições de sobrevivência da espécie humana, assente no equilíbrio ambiental que assegura a estabilidade climática, a biodiversidade, e a sobrevida e recuperação dos ecossistemas.
 
-A palavra 'Decrescimento' pode parecer peculiar ou provocar mal-entendidos. Mas ela existe em algumas línguas latinas, como no francês ou no italiano, onde "la décroissance" ou "la decrescita" se referem a um rio voltando ao seu fluxo normal após uma inundação desastrosa. O termo inglês "Degrowth" tornou-se coumun para descrever o movimento após a primeira conferência internacional de Decrescimento em Paris, em 2008. Desde então, é ubíquo na literatura académica e nos órgãos de comunicação social, sendo também usado por movimentos sociais e profissionais.
+A palavra 'Decrescimento' pode parecer peculiar ou provocar mal-entendidos. Mas ela existe em algumas línguas latinas, como no francês ou no italiano, onde "la décroissance" ou "la decrescita" se referem a um rio voltando ao seu fluxo normal após uma inundação desastrosa. O termo inglês "Degrowth" tornou-se comum para descrever o movimento após a primeira conferência internacional de Decrescimento em Paris, em 2008. Desde então, é ubíquo na literatura académica e nos órgãos de comunicação social, sendo também usado por movimentos sociais e profissionais.
 
-Ao mesmo tempo, a utilização de um termo aparentemente polémico cria perturbações e entra em discussão e disputa constante, desafiando a lógica ilusória do sistema atual, em todas as suas vertentes, e resiste a ser cooptado pela promoção mercantil das agências de marketing político.
+Ao mesmo tempo, a utilização de um termo aparentemente polémico cria perturbações e entra em discussão e disputa constante, desafiando a lógica ilusória do sistema atual, em todas as suas vertentes, e **resiste a ser cooptado pela promoção mercantil das agências de marketing político**.
 
 ### ORIGENS DO DECRESCIMENTO
 
