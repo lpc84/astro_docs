@@ -7,7 +7,7 @@ description: "Artigos sobre decrescimento"
 
 Poema decrescentista
 
-Poema inédito de Sophia de Mello Breyner Andresen que, não tendo sido escritocomo libelo decrescentista, enuncia alguns dos princípios e valores duma éticada frugalidade e da suficiência (fonte \[http://purl.pt/19841/1/1990/1990.html\]): Dai-me a casa vazia e simples onde a luz é preciosa.
+Poema inédito de Sophia de Mello Breyner Andresen que, não tendo sido escritocomo libelo decrescentista, enuncia alguns dos princípios e valores duma éticada frugalidade e da suficiência (fonte \[http://purl.pt/19841/1/1990/1990.html\])
 
 ![](https://cms.decrescimento.pt/content/images/2021/04/Sophia_jovem.png)
 
