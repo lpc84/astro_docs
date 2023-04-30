@@ -39,6 +39,7 @@ export const SIDEBAR: Sidebar = {
   pt: {
     Conceitos: [{ text: "Introdução", link: "pt/conceitos/introduction" }],
     Recursos: [
+      { text: "Artigos", link: "pt/recursos/artigos" },
       { text: "Livros", link: "pt/recursos/livros" },
       { text: "Videos", link: "pt/recursos/videos" },
     ],
