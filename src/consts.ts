@@ -1,6 +1,7 @@
 export const SITE = {
-  title: "Documentation",
-  description: "Your website description.",
+  title: "Rede para o Decrescimento",
+  description:
+    "Num planeta de recursos limitados torna-se imperativo reduzir os níveis de produção e consumo. A Rede para o Decrescimento apela a mudanças individuais, a experiências coletivas, a resistir, a desenvolver projetos políticos e a pensar em futuros diferentes. website description.",
   defaultLanguage: "pt-PT",
 } as const;
 
